@@ -1,4 +1,15 @@
-body {
-    background-color: #cccccc;
-    font-family: "Verdana";
+
+h1 {
+    src: url('fonts/AmstelvarAlpha-VF.ttf');
+  font-family:'AmstelvarAlpha';
+  font-style: italic;
+    text-align: center; 
+}
+body, 
+h2 {
+    color: #ada397;
+    text-align: center;
+}
+h3 {
+    vertical-align: baseline;
 }
